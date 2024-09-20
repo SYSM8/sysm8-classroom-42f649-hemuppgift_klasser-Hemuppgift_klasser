@@ -5,8 +5,9 @@
         static void Main(string[] args)
         {
             //Instansiera bankAccount klassen och testa den
+            BankAccount account = new BankAccount("7058, 45411", "Nän Ekman", 2000);
 
-            BankAccount account = new BankAccount();
+            account.DisplayBalance();
         }
     }
 }

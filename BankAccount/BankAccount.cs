@@ -34,13 +34,17 @@ namespace BankAccount
         {
             // tar ett decimal belopp som parameter och drar av det från saldot om det finns tillräckligt med pengar på
             //kontot.Annars ska metoden meddela att uttaget inte kan genomföras.
-
+            if (Balance < balance)
+            {
+                Balance = balance;
+            }
 
         }
 
         public void DisplayBalance()
         {
             // visar det aktuella saldot på kontot
+            Console.WriteLine(Balance);
         }
 
         //Lycka till! :)
