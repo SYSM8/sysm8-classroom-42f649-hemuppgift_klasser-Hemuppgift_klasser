@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             //Instansiera bankAccount klassen och testa den
+
+            BankAccount account = new BankAccount();
         }
     }
 }
