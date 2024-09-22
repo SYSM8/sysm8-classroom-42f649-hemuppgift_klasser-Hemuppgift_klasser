@@ -43,7 +43,7 @@ namespace BankAccount
             Console.WriteLine("How much money would you like to withdraw?");
             amount = double.Parse(Console.ReadLine());
 
-            if (amount < Balance)
+            if (amount <= Balance)
             {
                 Balance -= amount;
                 Console.WriteLine($"Withdew: {amount}, New balance: {Balance}");
