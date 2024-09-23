@@ -30,12 +30,9 @@ namespace BankAccount
             Console.WriteLine("How much money would you like to deposit?");
             amount = double.Parse(Console.ReadLine());
 
-            Balance += amount;
-            Console.WriteLine($"Deposited: {amount}, New balance: {Balance}");
-            
         }
 
-        public void Withdraw(double amount) 
+        public void Withdraw(double balance) 
         {
             // tar ett decimal belopp som parameter och drar av det från saldot om det finns tillräckligt med pengar på kontot. 
             //Annars ska metoden meddela att uttaget inte kan genomföras.
@@ -43,15 +40,6 @@ namespace BankAccount
             Console.WriteLine("How much money would you like to withdraw?");
             amount = double.Parse(Console.ReadLine());
 
-            if (amount <= Balance)
-            {
-                Balance -= amount;
-                Console.WriteLine($"Withdew: {amount}, New balance: {Balance}");
-            }
-            else
-            { 
-                Console.WriteLine($"You don't have enough money to withdraw {amount}.");
-            }
         }
 
         public void DisplayBalance()
