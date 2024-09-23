@@ -25,6 +25,7 @@ namespace BankAccount
         //Lägg till Metoder
         public void Deposit(double amount)
         {
+            //hej
             // tar ett decimal belopp som parameter och lägger till det till saldot.
             Console.WriteLine("How much money would you like to deposit?");
             amount = double.Parse(Console.ReadLine());
