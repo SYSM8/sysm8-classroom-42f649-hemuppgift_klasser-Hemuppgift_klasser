@@ -1,0 +1,15 @@
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\turec\Source\Repos\sysm8-classroom-42f649-hemuppgift_klasser-Hemuppgift_klasser\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
